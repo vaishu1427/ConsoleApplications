@@ -7,8 +7,8 @@ Language used is java.
 Ids and Passwords
 -----------------
 
-ATM
----
+1.ATM
+-----
 
 Admin ID:Admin
 Password : 1234
@@ -20,13 +20,13 @@ Admin ID : Selvi
 Password : 1409
 
 
-RAILWAYS
+2.RAILWAYS
 --------
  You can use your own password and name 
 
 
-LIBRARY
--------
+3.LIBRARY
+---------
 
 Admin ID:Admin1
 Password : 1122
@@ -35,8 +35,8 @@ User ID:User1
 Password :1122
 
 
-AMAZON
-------
+4.AMAZON
+--------
 
 Admin ID:Admin
 Password : 1234
