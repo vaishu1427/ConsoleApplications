@@ -33,3 +33,10 @@ Password : 1122
 
 User ID:User1
 Password :1122
+
+
+AMAZON
+------
+
+Admin ID:Admin
+Password : 1234
