@@ -4,11 +4,11 @@ Zoho mini projects
 It is a console level application.
 Language used is java.
 
-ATM
----
-
 Ids and Passwords
 -----------------
+
+ATM
+---
 
 Admin ID:Admin
 Password : 1234
