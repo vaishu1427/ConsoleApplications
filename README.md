@@ -1,4 +1,4 @@
-Zoho mini projects 
+Mini projects 
 -----------------
 
 It is a console level application.
